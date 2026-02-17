@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "475937151394",
+    "firebase_url": "https://foodapp-437e9-default-rtdb.firebaseio.com",
+    "project_id": "foodapp-437e9",
+    "storage_bucket": "foodapp-437e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475937151394:android:4997cf2ff3b757b7d43afb",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app_exp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQo-OwXN9YMaYX7hmpnCpxaR1zDXp-mxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475937151394:android:267db5731a5147c0d43afb",
+        "android_client_info": {
+          "package_name": "com.example.visitifyflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQo-OwXN9YMaYX7hmpnCpxaR1zDXp-mxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
